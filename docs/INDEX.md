@@ -48,7 +48,8 @@
 |----------|-------------|--------|
 | [Sovereign_Enclave_Definition_v1.0.md](Sovereign_Enclave_Definition_v1.0.md) | North star: what a Sovereign Enclave is, threat model, non-negotiables, success metrics | FINAL |
 | [Compelled_Access_Reality_Check_v1.0.md](Compelled_Access_Reality_Check_v1.0.md) | What a US-based provider can and cannot promise — CLOUD Act, non-possession, technical workarounds | FINAL |
-| [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | TEMPLATE — READY FOR NEGOTIATION |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | SUPERSEDED by v1.1 |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.1.md](Sovereign_Enclave_Legal_Addendum_Template_v1.1.md) | v1.1 — adds mBridge CBDC settlement, RISC-V chiplet transfer, cultural invariants (Ren/Wu Wei), lunar ISRU commitment | FINAL — READY FOR ADOPTION |
 | [Sovereign_Enclave_Controls_Matrix_v1.0.md](Sovereign_Enclave_Controls_Matrix_v1.0.md) | 14 controls mapping legal obligations to technical evidence — audit-ready | FINAL |
 | [Sovereign_Enclave_Reference_Architecture_v1.0.md](Sovereign_Enclave_Reference_Architecture_v1.0.md) | End-to-end architecture: control plane, data plane, key management, chaos node, NERM integration | FINAL |
 | [Kill_Switch_Governance_v1.0.md](Kill_Switch_Governance_v1.0.md) | Hardware-enforced kill switch specification — trigger authority, actions, testing, tiered migration SLA | FINAL |
@@ -61,6 +62,7 @@
 |----------|-------------|--------|
 | [Microsoft_Survival_Brief_v1.0.md](Microsoft_Survival_Brief_v1.0.md) | 25-point architectural debt gap analysis — Microsoft pain points mapped to Atlas Lattice artifacts | FINAL |
 | [50B_Pilot_Scenario_v1.0.md](50B_Pilot_Scenario_v1.0.md) | $50B capital allocation model — what gets built, how fast, what's the return | FINAL |
+| [90_Day_Joint_Summit_Agenda_v1.0.md](90_Day_Joint_Summit_Agenda_v1.0.md) | Joint summit agenda — DragonSeek/GangaSeek pilots, RISC-V silicon transfer, mBridge financing, lunar ISRU | READY FOR RATIFICATION |
 
 ## Validation & Tracking
 
@@ -71,7 +73,7 @@
 
 ---
 
-## Document Count: 33 files (including INDEX)
+## Document Count: 35 files (including INDEX)
 
 ## Repository
 - **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
