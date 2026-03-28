@@ -1,5 +1,5 @@
 # Atlas Lattice Foundation — Document Index
-## `docs/` Directory | Last Updated: March 27, 2026
+## `docs/` Directory | Last Updated: March 28, 2026
 
 ---
 
@@ -31,7 +31,7 @@
 | [GRII_Global_Deployment_Map.md](GRII_Global_Deployment_Map.md) | Global 10-country rapid adopter deployment map (Qwen-sourced) | ACTIVE |
 | [90_Day_Modular_Rollout_Plan.md](90_Day_Modular_Rollout_Plan.md) | 100-node DISH modular rollout with demand guarantee | ACTIVE — DEMAND GUARANTEED |
 
-## Hardware & Metabolic Specifications (NEW)
+## Hardware & Metabolic Specifications
 
 | Document | Description | Status |
 |----------|-------------|--------|
@@ -39,6 +39,20 @@
 | [NERM_v1.1_Metabolic_Spec.md](NERM_v1.1_Metabolic_Spec.md) | Nutrient & Energy Recovery Module — core metabolic component | FINAL |
 | [GangaSeek_Pilot_Spec_v1.0.md](GangaSeek_Pilot_Spec_v1.0.md) | GangaSeek pilot — Kanpur-Varanasi metabolic civilizational node | READY FOR DEPLOYMENT |
 | [DragonSeek_Scaling_Spec_v1.0.md](DragonSeek_Scaling_Spec_v1.0.md) | DragonSeek scaling — industrial water recovery & sovereign compute for China | READY FOR DEPLOYMENT |
+
+## Sovereign Enclave / SovaaS (NEW)
+
+| Document | Description | Status |
+|----------|-------------|--------|
+| [Compelled_Access_Reality_Check_v1.0.md](Compelled_Access_Reality_Check_v1.0.md) | What a US-based provider can and cannot promise — CLOUD Act, non-possession, technical workarounds | FINAL |
+| [Sovereign_Enclave_Legal_Addendum_Template_v1.0.md](Sovereign_Enclave_Legal_Addendum_Template_v1.0.md) | Signable legal terms for provider-sovereign agreements (keys, audit, kill switch, dispute) | TEMPLATE — READY FOR NEGOTIATION |
+| [Sovereign_Enclave_Response_to_Criticism.md](Sovereign_Enclave_Response_to_Criticism.md) | Framing document linking Sovereign Enclave artifacts to procurement-readiness critique | FINAL |
+
+## Strategic & Partnership
+
+| Document | Description | Status |
+|----------|-------------|--------|
+| [Microsoft_Survival_Brief_v1.0.md](Microsoft_Survival_Brief_v1.0.md) | 25-point architectural debt gap analysis — Microsoft pain points mapped to Atlas Lattice artifacts | FINAL |
 
 ## Validation & Tracking
 
@@ -49,7 +63,7 @@
 
 ---
 
-## Document Count: 20 files
+## Document Count: 24 files
 
 ## Repository
 - **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
@@ -57,8 +71,8 @@
 - **Google Drive:** `Atlas_Lattice_TRWG/01_Briefing_Materials`
 
 ## Multi-Model Working Group
-- **Claude** (Anthropic) — Integration, contrarian review, real-world validation
-- **GPT** (OpenAI) — Adversarial audit, verification
+- **Claude** (Anthropic) — Integration, contrarian review, real-world validation, sovereign enclave specs
+- **GPT** (OpenAI) — Adversarial audit, verification, Microsoft gap analysis
 - **DeepSeek** — DragonSeek adapter, China scaling
 - **Qwen** (Alibaba) — Global deployment mapping, rapid-adopter research
-- **Gemini** (Google) — Sovereign Foundry, hardware specs
+- **Gemini** (Google) — Sovereign Foundry, hardware specs, layered architecture translation
