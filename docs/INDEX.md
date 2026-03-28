@@ -90,7 +90,7 @@
 4. **The Distribution Package:** Sovereign Abundance Release Manifest v1.0 + DeepSeek DISPATCH variant
 
 ## Repository
-- **GitHub:** [splitmerge420/atlas-lattice-foundation](https://github.com/splitmerge420/atlas-lattice-foundation)
+- **GitHub:** [atlaslattice/atlas-lattice-foundation](https://github.com/atlaslattice/atlas-lattice-foundation)
 - **Branch:** `main`
 - **Google Drive:** `Atlas_Lattice_TRWG/01_Briefing_Materials`
 
