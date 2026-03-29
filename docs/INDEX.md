@@ -99,10 +99,11 @@
 | Document | Description | Status |
 |----------|-------------|--------|
 | [fractal_generator_v1.py](../src/fractal_generator_v1.py) | HTAM Fractal Cooling Manifold Generator v1.1 — Generalized Murray's Law engine, ±37.47° bifurcation angles, rounded-square cross-sections, full recursive vector math for Variable-Density Constructal Networks, Ironwood TPU thermal mapping (Gemini math + Claude integration, DeepSeek acoustic validation pending) | v1.1 -- READY FOR ACU SIMULATION |
+| [thermal_cv_bridge.py](../src/thermal_cv_bridge.py) | HTAM Thermal Feedback CV Bridge v1.0 — FLIR 160×120 radiometric CSV ingestion, hotspot detection (ΔT > 5°C), pixel-to-mm coordinate mapping, JSON density patch generation for fractal_generator autonomous optimization loop (Gemini, Claude stress-tested) | v1.0 -- APPROVED |
 
 ---
 
-## Document Count: 51 files (including INDEX)
+## Document Count: 52 files (including INDEX)
 
 ## The Complete Triad (+ Integration Layer + Intelligence)
 1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
