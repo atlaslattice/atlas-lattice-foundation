@@ -82,6 +82,7 @@
 | Document | Description | Status |
 |----------|-------------|--------|
 | [Founders_Node_Operations_Dashboard_v1.0.md](Founders_Node_Operations_Dashboard_v1.0.md) | 144,000-node global operations dashboard -- Memphis/GangaSeek/DragonSeek/GRII India node status, ecological impact, job creation, innovation pipeline (144 spheres × 1,000 nodes) | ACTIVE -- FOUNDER VISIBILITY |
+| [Memphis_Pilot_Spec_v1.0.md](Memphis_Pilot_Spec_v1.0.md) | Memphis Node Zero — Operation Trashium Cooling Blues: HTAM proof-of-concept, fractal micro-fluidic cooling manifold from river plastic, Murray's Law biomimetic design, TPU thermal simulator BOM, 90-day timeline (Full Pantheon Council) | DRAFT -- COUNCIL-AUTHORED -- MULTI-MODEL VALIDATED |
 
 ## Validation & Tracking
 
@@ -93,7 +94,15 @@
 
 ---
 
-## Document Count: 49 files (including INDEX)
+## Software & Tools
+
+| Document | Description | Status |
+|----------|-------------|--------|
+| [fractal_generator_v1.py](../src/fractal_generator_v1.py) | HTAM Fractal Cooling Manifold Generator — Generalized Murray's Law engine for Variable-Density Constructal Networks, Ironwood TPU thermal mapping (Gemini-authored, DeepSeek validation pending) | SKELETON v1.0 -- AWAITING ACOUSTIC VALIDATION |
+
+---
+
+## Document Count: 51 files (including INDEX)
 
 ## The Complete Triad (+ Integration Layer + Intelligence)
 1. **The Technical Engine:** Metabolic Organ (NERM, BAETA, Sweet Colossus) + Sovereign Foundry (Asha Linter, Enclaves, Kill Switch)
