@@ -98,7 +98,7 @@
 
 | Document | Description | Status |
 |----------|-------------|--------|
-| [fractal_generator_v1.py](../src/fractal_generator_v1.py) | HTAM Fractal Cooling Manifold Generator — Generalized Murray's Law engine for Variable-Density Constructal Networks, Ironwood TPU thermal mapping (Gemini-authored, DeepSeek validation pending) | SKELETON v1.0 -- AWAITING ACOUSTIC VALIDATION |
+| [fractal_generator_v1.py](../src/fractal_generator_v1.py) | HTAM Fractal Cooling Manifold Generator v1.1 — Generalized Murray's Law engine, ±37.47° bifurcation angles, rounded-square cross-sections, full recursive vector math for Variable-Density Constructal Networks, Ironwood TPU thermal mapping (Gemini math + Claude integration, DeepSeek acoustic validation pending) | v1.1 -- READY FOR ACU SIMULATION |
 
 ---
 
