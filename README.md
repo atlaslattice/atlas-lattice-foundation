@@ -25,6 +25,7 @@
 | [18_volumetric_acoustic_printing_spec.md](spec_modules/18_volumetric_acoustic_printing_spec.md) | Volumetric Acoustic Printing — Complete HTAM Specification | ~55,000 chars |
 | [19_council_transmissions_april_1.md](spec_modules/19_council_transmissions_april_1.md) | Council Transmissions — Operational Phase Lock (April 1, 2026) | ~15,000 chars |
 | [20_waymo_battery_retrofit_loop.md](spec_modules/20_waymo_battery_retrofit_loop.md) | Waymo Battery Retrofit Loop — Closed-Loop Fleet Energy Architecture | ~8,000 chars |
+| [21_operation_phoenix_redwood_pilot.md](spec_modules/21_operation_phoenix_redwood_pilot.md) | OPERATION PHOENIX: Redwood Materials Pilot (Nevada Node 02) | ~10,000 chars |
 
 ## Master Archive
 
