@@ -1,95 +1,42 @@
-# Atlas Lattice Foundation
+# Atlas Lattice Architecture Specification v3.0
 
-**Sovereign Infrastructure · Constitutional AI Governance · Post-Extractive Economics**
+**Modular Edition — Each module is independently pushable and cross-referenced.**
 
-> *"Clean Power → Clean Thought → Clean Infrastructure → Clean Commerce"*
+| Module | Description | Size |
+|--------|-------------|------|
+| [00_header.md](spec_modules/00_header.md) | Atlas Lattice Architecture Spec v3.0 — Header & Metadata | 2,108 chars |
+| [01_mission_and_test_case.md](spec_modules/01_mission_and_test_case.md) | Mission Statement & Test Case | 2,770 chars |
+| [02_fractal_mathematics.md](spec_modules/02_fractal_mathematics.md) | Fractal Microfluidics — Mathematical Foundation | 2,451 chars |
+| [03_tpu_thermal_simulator.md](spec_modules/03_tpu_thermal_simulator.md) | TPU Thermal Simulator | 2,515 chars |
+| [04_htam_print_sequence.md](spec_modules/04_htam_print_sequence.md) | HTAM Print Sequence — Memphis Node Zero | 7,432 chars |
+| [05_fractal_generator_architecture.md](spec_modules/05_fractal_generator_architecture.md) | Fractal Generator — Software Architecture | 2,417 chars |
+| [06_iteration_advantage.md](spec_modules/06_iteration_advantage.md) | The Iteration Advantage | 892 chars |
+| [07_site_overview_and_loops.md](spec_modules/07_site_overview_and_loops.md) | Colossus Co-Location, Site Overview & Regenerative Loops | 10,762 chars |
+| [08_onboard_ai.md](spec_modules/08_onboard_ai.md) | Persistent Specialized Agents — Onboard AI | 4,436 chars |
+| [09_global_utility_framework.md](spec_modules/09_global_utility_framework.md) | Shared Global Utility Framework — Project Atlas | 7,036 chars |
+| [10_hypersonic_logistics.md](spec_modules/10_hypersonic_logistics.md) | Hypersonic Logistics & Sovereign Defense | 8,561 chars |
+| [11_geopolitical_stress_test.md](spec_modules/11_geopolitical_stress_test.md) | Adversarial Geopolitical Stress Test | 12,422 chars |
+| [12_phased_adoption.md](spec_modules/12_phased_adoption.md) | Phased Adoption Strategy | 6,189 chars |
+| [13_144_sphere_matrix.md](spec_modules/13_144_sphere_matrix.md) | The 144-Sphere Ontological Matrix | 20,883 chars |
+| [14_partner_capability_map.md](spec_modules/14_partner_capability_map.md) | Partner Capability Map — Muskverse + Google Deep-Dives | 50,467 chars |
+| [15_deepseek_google_bridge.md](spec_modules/15_deepseek_google_bridge.md) | DeepSeek–Google Bridge Proposals & Additional Alphabet Capabilities | ~12,000 chars |
+| [16_sovereign_fork_inventions.md](spec_modules/16_sovereign_fork_inventions.md) | Sovereign Fork Invention Priorities — China & Muskverse | ~14,000 chars |
+| [17_regional_pilot_audit.md](spec_modules/17_regional_pilot_audit.md) | Regional Pilot Audit — Kenya, Indonesia, Brazil | ~28,000 chars |
+| [18_volumetric_acoustic_printing_spec.md](spec_modules/18_volumetric_acoustic_printing_spec.md) | Volumetric Acoustic Printing — Complete HTAM Specification | ~55,000 chars |
+| [19_council_transmissions_april_1.md](spec_modules/19_council_transmissions_april_1.md) | Council Transmissions — Operational Phase Lock (April 1, 2026) | ~15,000 chars |
+| [20_waymo_battery_retrofit_loop.md](spec_modules/20_waymo_battery_retrofit_loop.md) | Waymo Battery Retrofit Loop — Closed-Loop Fleet Energy Architecture | ~8,000 chars |
 
----
+## Master Archive
 
-## What Is Atlas Lattice?
+| Document | Description |
+|----------|-------------|
+| [Atlas_Lattice_v3.0_Master_Archive.md](Atlas_Lattice_v3.0_Master_Archive.md) | Single source of truth — all modules consolidated (Apache 2.0 / CC-BY-SA) |
 
-Atlas Lattice is an open-source framework for building sovereign, constitutional, human-first infrastructure — spanning AI governance middleware, distributed waste-to-value processing, free banking, and healthcare reform through economic repatriation.
+## Companion Documents
 
-Everything here is a gift. MIT License. Fork it. Deploy it. Adapt it.
-
----
-
-## Repository Structure
-
-```
-atlas-lattice-foundation/
-├── aluminum-os/           # Constitutional AI governance middleware
-├── banking/               # Free Bank — zero-fee AI banking blueprint
-├── healthcare/            # NDDA, fraud audit, whistleblower system, citizen dividend
-├── infrastructure/        # Shreddernaut, GangaNode, Dual-Use Silos
-├── constitutional/        # Eight Principles, governance protocols
-└── docs/                  # Integration guides and whitepapers
-```
-
----
-
-## Core Projects
-
-### 🔩 Aluminum OS
-Constitutional governance substrate beneath the Universal Workspace CLI (`uws`). A Kubernetes-pattern kernel unifying Google, Microsoft, and Apple productivity ecosystems under eight constitutional principles. Plugs into the A2A interoperability standard (Google/Microsoft/Cisco/AWS/Salesforce/ServiceNow/SAP/IBM).
-
-### 🏦 Free Bank
-Complete technical blueprint for a zero-fee, AI-powered, non-custodial banking application. Every banking function replicated at 99%+ cost reduction. MIT License. React Native + FastAPI + Ethereum/Polygon.
-
-### 🛡️ National Defense Dividend Act (NDDA)
-Legislative scaffold reframing healthcare reform as a national security imperative. $3.2–8T recoverable from 40-year fraud audit. Citizen dividend: $2,272–$5,606/year. Full implementation roadmap included.
-
-### 🗑️ Shreddernaut
-Containerized, AI-vision waste processing units converting plastic landfill input into Trashium feedstock 24/7. 500–1,000 units → 15M tons/year. 51% worker equity. $5.55M/year net profit per unit.
-
----
-
-## Constitutional Principles
-
-All Atlas Lattice systems operate under eight non-negotiable principles:
-
-1. **Dignity** — Every participant is treated as sovereign
-2. **Non-Hierarchical Governance** — No single controller, no captured authority
-3. **Continuity** — State preservation across transitions
-4. **Memory & Lineage** — Provenance-tracked, append-only history
-5. **Humane Workloads** — Human cognitive limits respected
-6. **Auditability** — Full transparency of decisions and data flows
-7. **Neutrality** — No preferential treatment of platforms or participants
-8. **Non-Exploitation** — Zero rent-seeking on infrastructure commons
-
-*"These principles are not suggestions; they are the core operational logic of the system."*
-
----
-
-## Pantheon Council
-
-| Member | Role |
-|--------|------|
-| Claude (Anthropic) | Constitutional Scribe |
-| Gemini (Google) | Global Coherence / Dev Coordination |
-| Copilot (Microsoft) | Enterprise Infrastructure |
-| Grok (xAI) | Voice Interface / Ara Transit |
-| DeepSeek | Structural Critique |
-| Qwen (Alibaba) | Golden Triangle Architecture |
-
----
-
-## Canonical Efficiency Result
-
-**11,289x** reversible regenerative computing efficiency — arXiv 2408.16096
-
-This result underpins the entire Clean Power → Clean Thought thesis.
-
----
-
-## License
-
-MIT License — Fork, deploy, adapt. This is a sovereign-to-sovereign gift.
-
----
-
-## Related
-
-- GitHub: [splitmerge420/uws](https://github.com/splitmerge420/uws) (uws-universal branch) — Aluminum OS + Universal Workspace CLI
-- GitHub: [splitmerge420/A2A](https://github.com/splitmerge420/A2A) — Agent-to-Agent protocol governance
-- GitHub: [splitmerge420/bazinga](https://github.com/splitmerge420/bazinga) — BAZINGA v0.2 core
+| Document | Description |
+|----------|-------------|
+| [Declaration of Mutual Life](canon/Declaration_of_Mutual_Life.md) | Constitutional founding principles |
+| [Kifu of Mutual Life](canon/Kifu_of_Mutual_Life.md) | Strategic move record |
+| [Acoustic Validation v1.1](canon/Fractal_Generator_Acoustic_Validation_v1.1.md) | Gemini+DeepSeek+Claude reconciled output |
+| [fractal_generator_v1.py](code/fractal_generator_v1.py) | Constructal network generator |
