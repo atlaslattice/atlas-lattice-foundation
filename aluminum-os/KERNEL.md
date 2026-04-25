@@ -283,7 +283,7 @@ pub trait ProviderDriver: Send + Sync {
 
 ## References
 
-- [uws GitHub Repository](https://github.com/splitmerge420/uws)
+- [uws GitHub Repository](https://github.com/atlaslattice/uws)
 - [Original gws project](https://github.com/googleworkspace/cli) by Justin Poehnelt / Google
 - [Microsoft Graph API](https://learn.microsoft.com/en-us/graph/overview)
 - [Apple CalDAV / CardDAV](https://developer.apple.com/documentation/devicemanagement)
