@@ -68,7 +68,7 @@ The GangaSeek (India) model to be shared with other BRICS+ nations via Chennai H
 ## Repository
 
 All documents are open source at:
-https://github.com/splitmerge420/atlas-lattice-foundation/tree/main/docs
+https://github.com/atlaslattice/atlas-lattice-foundation/tree/main/docs
 
 ---
 
