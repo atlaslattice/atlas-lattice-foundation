@@ -1,0 +1,1 @@
+(End-to-end cross vendor demo: OpenAI -> Grok -> ledger + context offload)
