@@ -1,1 +1,1 @@
-(Core orchestrator with 20 things spirit)
+Updated live map with Notion lane.
