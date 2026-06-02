@@ -1,0 +1,1 @@
+(Responses adapter stub with ledger + claim emission)
