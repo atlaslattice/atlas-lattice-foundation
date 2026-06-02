@@ -1,0 +1,1 @@
+{"request_id": "notion_hardened_invariants_soak_20260602-0534", "type": "notion_hardened_20", "lattice_coords": [5,9,0], "epistemic": {"certainty": 0.95}, "INV": "INV-\u03a9.1", "inputs": {"soak_jobs": 20, "dlp_plant": true}}

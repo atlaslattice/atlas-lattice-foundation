@@ -1,0 +1,1 @@
+{"request_id": "notion_hardened_invariants_soak_20260602-0534", "status": "SUCCESS", "result": {"job_claims": 20, "dlp_quarantines": 1, "kill_triggered": true, "sink_pass": true}, "note": "All 20 NOTION SAYS points + mechanical invariants (no-secret, kill, atomic verify, evidence, canon gate, soak)."}
