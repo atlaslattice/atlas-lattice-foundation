@@ -1,0 +1,1 @@
+(Full spec with 20 creative things)
