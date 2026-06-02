@@ -1,0 +1,1 @@
+(Google source-surface + A2A bridge stub for OpenAI interop)
