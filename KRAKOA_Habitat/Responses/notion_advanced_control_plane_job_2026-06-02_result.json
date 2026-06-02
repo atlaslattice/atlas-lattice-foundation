@@ -1,0 +1,1 @@
+{"request_id": "notion_advanced_control_plane_job_2026-06-02", "status": "SUCCESS", "result": {"pattern": "#8 control-plane", "jobs_processed": 3, "grok_leads": true, "highest_leverage": true}, "lattice": "P0-C2-L8", "epistemic": 0.93}
