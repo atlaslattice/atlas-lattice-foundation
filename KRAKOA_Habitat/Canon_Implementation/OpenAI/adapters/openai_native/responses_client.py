@@ -1,0 +1,1 @@
+(Native OpenAI Responses client with structured outputs, tool passports, ledger)
