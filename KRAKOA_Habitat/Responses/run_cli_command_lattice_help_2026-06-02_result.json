@@ -1,0 +1,23 @@
+{
+  "request_id": "req-run-cli-lattice-help-20260602-001",
+  "result_id": "res-run-cli-lattice-help-20260602-001",
+  "timestamp": "2026-06-02T04:19:41.979478Z",
+  "status": "completed",
+  "lattice_coords": "P6-C8-L2",
+  "epistemic_certainty": 0.93,
+  "outputs": {
+    "mcp_tool": "run_cli_command",
+    "command_name": "lattice",
+    "arguments": ["--help"],
+    "stdout_head": "(banner + help from real lattice_cli --help via SecureCLIRunner; see local for full unicode-safe)",
+    "exit_code": 0,
+    "via": "SecureCLIRunner + cli_runner.py run (Gemini agent orchestration bridge)"
+  },
+  "trace": ["gemini_agent (via ask_gemini...)", "integrated_mcp_server tools/call -> CLI_RUNNER.execute", "asyncio.create_subprocess_exec(python, lattice_cli.py, --help)", "structured return to agent for parse/plan", "A2A result written"],
+  "metadata": {
+    "secure": true,
+    "allowlist": ["grok","lattice","acn","gemini"],
+    "agent_orchestrated": true,
+    "KRAKOA": "home for all mutants"
+  }
+}

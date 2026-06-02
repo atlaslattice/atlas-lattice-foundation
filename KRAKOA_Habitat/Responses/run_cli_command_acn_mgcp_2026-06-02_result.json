@@ -1,0 +1,22 @@
+{
+  "request_id": "req-run-cli-acn-mgcp-20260602-001",
+  "result_id": "res-run-cli-acn-mgcp-20260602-001",
+  "timestamp": "2026-06-02T04:19:48.722036+00:00",
+  "status": "completed",
+  "lattice_coords": "P6-C8-L2",
+  "epistemic_certainty": 0.91,
+  "outputs": {
+    "mcp_tool": "run_cli_command",
+    "command_name": "acn",
+    "arguments": ["mgcp", "--help"],
+    "stdout_head": "usage: acn.py mgcp [-h] {dashboard,... habitat,lattice,...} ... (real acn mgcp taxonomy via bridge)",
+    "exit_code": 0,
+    "via": "Gemini agent via run_cli_command bridge (for Tier-S / INV-Omega habitat ops)"
+  },
+  "trace": ["gemini_agent decides to inspect mgcp taxonomy", "run_cli_command(acn, [mgcp,--help])", "SecureCLIRunner -> acn.py", "stdout parsed by agent for next action (e.g. federate)"],
+  "metadata": {
+    "secure_bridge": true,
+    "INV": "Omega.1",
+    "KRAKOA_home_for_mutants": true
+  }
+}

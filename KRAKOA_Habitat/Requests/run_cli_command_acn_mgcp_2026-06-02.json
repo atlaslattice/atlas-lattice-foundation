@@ -1,0 +1,17 @@
+{
+  "request_id": "req-run-cli-acn-mgcp-20260602-001",
+  "created_by": "gemini_agent / integrated_mcp_server + cli_runner",
+  "created_at": "2026-06-02T04:19:48.722058+00:00",
+  "type": "run_cli_command",
+  "lattice_coords": "P6-C8-L2",
+  "epistemic_certainty": 0.91,
+  "inputs": {
+    "command_name": "acn",
+    "arguments": ["mgcp", "--help"]
+  },
+  "status": "completed",
+  "metadata": {
+    "agent_orchestrated": true,
+    "allowlisted": "acn"
+  }
+}

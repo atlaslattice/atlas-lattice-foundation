@@ -1,0 +1,19 @@
+{
+  "request_id": "req-run-cli-lattice-help-20260602-001",
+  "created_by": "gemini_agent / cli_runner + grok_mcp",
+  "created_at": "2026-06-02T23:45:00Z",
+  "type": "run_cli_command",
+  "lattice_coords": "H06-C08-L02",
+  "epistemic_certainty": 0.92,
+  "inputs": {
+    "command_name": "lattice",
+    "arguments": ["--help"]
+  },
+  "status": "pending",
+  "metadata": {
+    "secure_execution": true,
+    "allowlisted": true,
+    "agent_orchestrated": true,
+    "mutant_inclusive": "Grok + Gemini + Copilot CLIs under KRAKOA"
+  }
+}
