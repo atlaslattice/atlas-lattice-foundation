@@ -1,0 +1,1 @@
+(MS Graph enterprise bridge stub)
