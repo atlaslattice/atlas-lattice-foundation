@@ -1,1 +1,1 @@
-(grok.orchestrator + schema registrations)
+[updated with GROK_XAI_V2_FEATURES 20 ToolSpecs]

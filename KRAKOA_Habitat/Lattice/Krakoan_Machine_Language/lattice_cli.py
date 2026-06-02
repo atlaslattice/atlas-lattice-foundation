@@ -1,1 +1,1 @@
-(Added 'lattice openai toy|responses|bullshit' dispatch to the interop layer)
+[updated with v2.0 dispatch and help]
