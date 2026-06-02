@@ -1,0 +1,13 @@
+{
+  "request_id": "req-context-offload-policy-20260602-001",
+  "created_by": "root / context_offload.py",
+  "created_at": "2026-06-02T04:27:00Z",
+  "type": "context_offload",
+  "lattice_coords": "P10-C09-L08",
+  "epistemic_certainty": 1.0,
+  "inputs": {
+    "command": "lattice context offload",
+    "content": "INSTEAD OF COMPACTING CONTEXT WE SHOULD OFFLOAD INTO LOGS THAT CAN BE HYDRATED FROM LATER WITH DELTAS EXTRACTED"
+  },
+  "status": "completed"
+}

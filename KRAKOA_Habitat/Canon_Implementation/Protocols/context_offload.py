@@ -1,0 +1,1 @@
+(see full source in local KRAKOA_Habitat; implements offload/ hydrate / extract_deltas / CLI. First entries logged for the root directive + impl. JSONL + hash chain + DPOL integration.)
