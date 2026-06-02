@@ -1,0 +1,1 @@
+(Core orchestrator with 20 things spirit)
