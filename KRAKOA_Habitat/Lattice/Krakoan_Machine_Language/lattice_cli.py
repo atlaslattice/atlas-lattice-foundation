@@ -1,1 +1,1 @@
-[updated with v2.0 dispatch and help]
+[updated dispatch]
