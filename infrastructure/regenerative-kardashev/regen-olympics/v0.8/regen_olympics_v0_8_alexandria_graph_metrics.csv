@@ -1,0 +1,7 @@
+metric,No KG,Basic Archive,Provenance Graph,Alexandria,Alexandria Max
+Evidence quality,0.15,0.45,0.7,0.88,0.96
+Dependency mapping,0.15,0.3,0.55,0.82,0.92
+Coordination,0.15,0.3,0.5,0.8,0.92
+Reusable knowledge,0.1,0.3,0.55,0.86,0.94
+Contradiction handling,0.1,0.25,0.55,0.84,0.92
+Overhead,0.0,0.004,0.008,0.012,0.02
