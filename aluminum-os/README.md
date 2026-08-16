@@ -24,4 +24,4 @@ alum ai "summarize my unread emails"
 
 ## Source Repo
 
-`splitmerge420/uws` (uws-universal branch) — Aluminum OS + Universal Workspace CLI
+`atlaslattice/uws` (uws-universal branch) — Aluminum OS + Universal Workspace CLI

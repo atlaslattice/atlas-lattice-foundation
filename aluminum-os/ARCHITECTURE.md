@@ -231,7 +231,7 @@ This is the architecture that makes the AI-native OS real.
 
 ## 10. References
 
-- **[1] uws GitHub Repository:** [github.com/splitmerge420/uws](https://github.com/splitmerge420/uws)
+- **[1] uws GitHub Repository:** [github.com/atlaslattice/uws](https://github.com/atlaslattice/uws)
 - **[2] Original gws project:** [github.com/googleworkspace/cli](https://github.com/googleworkspace/cli) by Justin Poehnelt / Google
 - **[3] Microsoft Graph API:** [learn.microsoft.com/en-us/graph/overview](https://learn.microsoft.com/en-us/graph/overview)
 - **[4] Apple CalDAV / CardDAV:** [developer.apple.com/documentation/devicemanagement](https://developer.apple.com/documentation/devicemanagement)
