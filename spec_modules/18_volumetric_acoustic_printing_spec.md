@@ -544,3 +544,12 @@ HTAM must comply with:
 ---
 
 *This specification is maintained by the Atlas Lattice Foundation and is considered the authoritative reference for all HTAM implementations. For questions, contact the Framework Architect at [foundation contact].*
+
+
+---
+
+### November 1, 2026 external HTAM research delta (preserves April consolidated spec)
+
+**This is an evidence and design-audit addendum, NOT an amendment asserting a functional HTAM prototype exists.** [ORCS November source ledger](https://github.com/atlaslattice/open-regenerative-compute-standard/blob/main/research/ORCS_2026_11_01_CROSS_PROGRAM_NEWS_EVIDENCE_AND_IMPLEMENTATION_REGISTER.md) tracks source evidence, owner decisions and staged validation. Original March/April HTAM statements that UV illumination cures ordinary heated HDPE/PET/ABS, gives universal acoustic levitation for different-density masses, and achieves fixed 75-120-second cycles or <$180k complete cell remain **UNVERIFIED historical targets**. Recycled thermoplastic must be converted into an actually photocurable matrix, or processed by a separate melt route; 405-nm attenuation and chemical compatibility must be measured. Electronics phase stability does not establish mapped material-shape stability. The legacy 16×16/64 transducer-count contradiction remains historical, not literal build instructions.
+
+**New opportunities, not validation:** [DOE BattMan launch (Oct 28)](https://www.energy.gov/cmei/ammto/articles/doe-launches-battery-manufacturing-accelerator-strengthen-us-competitiveness) provides a relevant battery-manufacturing **AI, sensor, digital twin** comparator but no claim of collaboration or a print-ready electrochemical cell. [Infineon's 27kW ANPC+LLC reference (Oct 8)](https://www.infineon.com/technology-news/2026/inftn202610-005) provides potential manufactured power-hardware demand for qualified noncritical carriers, *not* DISH printing power semiconductors or HV transformer cores. Research order is **dielectric AHD-D1 geometry + optical cure → independent G3 insulation and aging → potential noncritical power subparts → separate battery coupon**. Real source/lot, process controls, particle placement images, failed parts, power and recycle fractions must be retained before claiming a circular factory output. The parent HTAM architectural vision is unchanged; commercial claims require independent production evidence.
