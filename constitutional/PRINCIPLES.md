@@ -1,6 +1,6 @@
 # Constitutional Principles — Atlas Lattice Foundation
 
-**Source:** COPILOT_CLI_SPEC.md (splitmerge420/uws, uws-universal branch)  
+**Source:** COPILOT_CLI_SPEC.md (atlaslattice/uws, uws-universal branch)  
 **Status:** Verified Live — Core Operational Logic
 
 ---

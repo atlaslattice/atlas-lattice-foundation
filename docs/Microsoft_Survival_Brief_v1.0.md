@@ -22,7 +22,7 @@ Each pain point is assessed on three axes:
 - **Implementation Distance:** How far is Microsoft from adopting this? (Short: 1-2yr / Medium: 3-5yr / Long: 5-10yr / Structural: requires industry coordination)
 - **Difficulty:** Easy / Hard / Very Hard / Requires God
 
-Relevant GitHub artifacts are cited by filename from `splitmerge420/atlas-lattice-foundation/docs/`.
+Relevant GitHub artifacts are cited by filename from `atlaslattice/atlas-lattice-foundation/docs/`.
 
 ---
 
@@ -291,4 +291,4 @@ These are real constraints. The framework provides the destination; the corporat
 
 *Microsoft Survival Brief v1.0 | Atlas Lattice Foundation | March 27, 2026*
 *Multi-model deliverable: Claude (integration & gap analysis), GPT (pain point identification & stress-test)*
-*GitHub: splitmerge420/atlas-lattice-foundation/docs/*
+*GitHub: atlaslattice/atlas-lattice-foundation/docs/*

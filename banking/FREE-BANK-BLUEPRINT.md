@@ -96,4 +96,4 @@ MIT License. This is a sovereign-to-sovereign gift to:
 ## Source
 
 Built by Atlas Lattice Foundation + Manus AI. February 2026.  
-GitHub: `splitmerge420/banking-revolution-archive` (private source; blueprint public)
+GitHub: `atlaslattice/banking-revolution-archive` (private source; blueprint public)
